@@ -1,0 +1,38 @@
+{
+    "ol": [
+      {
+        "id": "1",
+        "name": "TL-WR",
+        "description": "Harga Rp. 169.000, Merk TP-LINK, Kecepatan 450Mbps",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYhkTAC_E0JIudmRaOTTwhA0yizdrftBf-Vw7pVSZuxX_GW9mKaO-R1_7d5VBAuTDeUKY&usqp=CAU",
+        "rating": 4.3,
+        "wire": {
+          "wireless": [
+            {"name": "TL-MR100"},
+            {"name": "Kecepatan 300Mbps"}
+          ],
+          "wired": [
+            {"name": "TL-WR 940N"},
+            {"name": "Kecepatan 450Mbps"}
+          ]
+        }
+      },
+      {
+        "id": "2",
+        "name": "Mi Wifi Extender",
+        "description": "Harga Rp. 312.500, Merk Xiaomi, Kecepatan 300Mbps",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN06y7JiHpBEkh7PeqzO5DlaBZSV5UczvAIg&usqp=CAU",
+        "rating": 4.7,
+        "wire": {
+          "wireless": [
+            {"name": "Mi Wifi Extender Pro"},
+            {"name": "Kecepatan 300Mbps"}
+          ],
+          "wired": [
+            {"name": "Mi Wifi Extender"},
+            {"name": "Kecepatan 300Mbps"}
+          ]
+        }
+      }
+    ]
+  }
